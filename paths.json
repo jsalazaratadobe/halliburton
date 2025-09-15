@@ -1,20 +1,20 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-     "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/es/:/es/",
-     "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/halliburton/language-masters/en:/",
+    "/content/halliburton/language-masters/en/:/en/",
+     "/content/halliburton/language-masters/es:/es",
+    "/content/halliburton/language-masters/es/:/es/",
+     "/content/halliburton/language-masters/fr:/fr",
+    "/content/halliburton/language-masters/fr/:/fr/",
+    "/content/halliburton/configuration:/.helix/config.json",
+    "/content/halliburton/metadata:/metadata.json",
+    "/content/halliburton/redirects:/redirects.json",
+    "/content/halliburton/placeholders:/placeholders.json",
+    "/content/halliburton.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/halliburton/",
+    "/content/dam/halliburton/"
   ]
 }
  
